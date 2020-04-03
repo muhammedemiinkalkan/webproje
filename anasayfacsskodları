@@ -1,0 +1,113 @@
+/*Ana Sayfa*/
+.isim {
+    text-transform: uppercase;
+    line-height: 1;
+}
+
+.profil-resim {
+    margin-right: 30px;
+}
+
+@media (max-width: 768px) {
+    .profil-resim {
+        margin: 0 0 30px;
+    }
+}
+
+
+.kisisel-bolum,
+p {
+    margin-bottom: 30px;
+}
+
+.kisisel-bolum .adsoyad {
+    text-transform: uppercase;
+    line-height: 1;
+    margin: 0 0 5px;
+}
+
+.kisisel-bolum span {
+    font-size: 24px;
+    color: #ff5722;
+}
+
+.kisisel-bilgi strong {
+    margin: 10px 0;
+    font-size: 13px;
+    columns: #444444;
+    display: block;
+    line-height: 1;
+}
+
+.kisisel-bilgi small {
+    font-size: 12px;
+}
+
+.sosyal-ikon {
+    margin: 20px 0;
+    padding: 0;
+    display: block;
+}
+
+.sosyal-ikon li {
+    display: inline-block;
+    margin: 0 2px;
+}
+
+.sosyal-ikon li a {
+    display: block;
+    font-size: 15px;
+    color: #333333;
+    width: 34px;
+    height: 34px;
+    line-height: 33px;
+    text-align: center;
+    border-radius: 2px;
+    border: 2px solid #eeeeee;
+}
+
+.sosyal-ikon li a:hover {
+    border-color: #cccccc;
+}
+
+.section-baslik {
+    margin-right: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.okul h6 {
+    color: #558844;
+    text-transform: uppercase;
+}
+
+.okul p {
+    font-size: 15px;
+}
+
+.yetkinlik {
+    position: relative;
+}
+
+.yetkinlik .yetkinlik-baslik {
+    font-size: 12px;
+    font-weight: 400;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.yetkinlik .progress {
+    margin-bottom: 3px;
+}
+
+.hobi {
+    margin-bottom: 15px;
+}
+
+.hobi-aciklama h4 {
+    text-transform: uppercase;
+}
+
+.hobi-aciklama p {
+    font-size: 14px;
+}
