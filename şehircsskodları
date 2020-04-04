@@ -1,0 +1,49 @@
+/*Şehir Bölümü*/
+
+.carousel img {
+    margin: auto;
+}
+
+.sehir-section {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    margin: 30px 0;
+}
+
+.sehir-section h3 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+section #rize h3 {
+    text-align: center;
+}
+
+section #yerler img {
+    border-radius: 10px;
+}
+
+section #kackar h3 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+section #ayder h3 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+section #zil-kale h3 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+section #firtina h3 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
