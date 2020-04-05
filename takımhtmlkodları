@@ -1,0 +1,257 @@
+<div class="container">
+        <div class="takim-bilgi">
+            <div class="row">
+                <div class="col-md-3 ">
+                    <img src="img/takimimiz/logo.png" class="mx-auto d-block img-fluid" alt="">
+                </div>
+                <div class="col-md-9 ">
+                    <h3>ÇAYKUR RİZESPOR</h3>
+                    <h5>Karadenizin Fırtına Takımı !</h5>
+                    <ul class="nav nav-tabs" id="myTab" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#tarihce" role="tab"
+                                aria-controls="home" aria-selected="true">Tarihçe</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#oyuncular" role="tab"
+                                aria-controls="profile" aria-selected="false">Oyuncularımız</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="stad-tab" data-toggle="tab" href="#stad" role="tab"
+                                aria-controls="contact" aria-selected="false">Stadımız</a>
+                        </li>
+                    </ul>
+                    <div class="icerik tab-content" id="myTabContent">
+                        <div class="tab-pane fade show active" id="tarihce" role="tabpanel" aria-labelledby="home-tab">
+                            <h4 class="baslik">Bir limon fidanının hikâyesi</h4>
+                            <p>
+                                Rizespor’un kuruluşu çok özverili çabalar sonucu gerçekleşmiştir. Şehrin önde gelen
+                                tüccar
+                                ve eski futbolcularından Atıf Taviloğlu ve Muharrem Kürkçü, yaşadıkları şehrin ismini
+                                taşıyacak bir kulüp kurmaya karar verirler. Yalnız, 1953 yılının Rize’sinde yaşam
+                                koşulları
+                                malumdur. Eskilerin deyimiyle “Kıtlık” vardır. Kuruluş masrafları nasıl karşılanacak,
+                                Kulüp
+                                nasıl yaşatılacaktı. Atıf Taviloğlu Gülbahar (Haldoz) Mahallesi’ndeki bahçesinden söküp
+                                getirdiği bir limon fidanının açık artırmaya çıkarılması sonucu 30 lira elde edilir. Bu
+                                para
+                                ile Çaykur Rizespor’un temelleri atılmış olur.
+                            </p>
+                            <h4 class="baslik">Rizespor’un kurucuları</h4>
+                            <p>
+                                27-30 Nisan tarihleri arasında Rize Gazetesi’nde yayınlanan Rizespor ve Gençlik Kulübü
+                                Nizamnamesinde; Yakup Temizel, Atıf Taviloğlu, İsmet Bilsel, Yaşar Hilmi Dömbekçioğlu ve
+                                Muharrem Kürkçü kurucular olarak yer alıyordu. Yaşar Hilmi Dömbekçioğlu Rizespor’un
+                                kurucu
+                                başkanı olarak tarihe geçiyordu. Kulübün öncelikli gayesi, Rize’de gençliğin beden ve
+                                kültürel yeteneklerini artırmak ve bu sahada sunulacak öğretilerle gelişimlerine katkıda
+                                bulunmak şeklinde belirleniyordu. Kuruluş Günü için Mustafa Kemal Atatürk’ün Samsun’a
+                                ayak
+                                bastığı anlamlı günün 34. yıldönümü olan 19 Mayıs 1953 tarihi Rizespor’un kuruluş günü
+                                olarak karar verilir.
+                            </p>
+                            <h4 class="baslik">Yakın Tarihte Çaykur Rizespor</h4>
+
+                            <p> <b>2000-01 Sezonu:</b> 1. Ligi 46 puanla 13. Olarak tamamladı. <br>
+                                <b>2001-02 Sezonu:</b> 1. Ligi 37 puanla 16. Olarak tamamladı. Küme düştü <br>
+                                <b>2002-03 Sezonu:</b> 2.Lig A Kategorisini 66 puanla 2. Olarak tamamladı. 1.Lig'e
+                                Yükseldi.
+                                <br>
+                                <b>2003-04 Sezonu:</b> 1. Ligi 42 puanla 14. Olarak tamamladı <br>
+                                <b>2004-05 Sezonu:</b> Süper Ligi 43 puanla 10. Olarak tamamladı.<br>
+                                <b>2005-06 Sezonu:</b> Süper Ligi 41 puanla 9. Olarak tamamladı.<br>
+                                <b>2006-07 Sezonu:</b> Süper Ligi 40 puanla 15. Olarak tamamladı.<br>
+                                <b>2007-08 Sezonu:</b> Süper Ligi 29 puanla 17. Olarak tamamladı. Küme düştü<br>
+                                <b>2008-09 Sezonu:</b> 1. Ligi 47 puanla 9. Olarak tamamladı.<br>
+                                <b>2009-10 Sezonu:</b> 1. Ligi 40 puanla 15. Olarak tamamladı.<br>
+                                <b>2010-11 Sezonu:</b> 1. Ligi 54 puanla 4. Olarak tamamladı.<br>
+                                <b>2011-12 Sezonu:</b> 1. Ligi 59 puanla 3. Olarak tamamladı.<br>
+                                <b>2012-13 Sezonu:</b> 1. Ligi 59 puanla 2. Olarak tamamladı. Süper Lig'e Yükseldi.<br>
+                                <b>2013-14 Sezonu:</b> Süper Ligi 42 puanla 13. Olarak tamamladı.<br>
+                                <b>2014-15 Sezonu:</b> Süper Ligi 36 puanla 14. Olarak tamamladı.<br>
+                                <b>2015-16 Sezonu:</b> Süper Ligi 37 puanla 13. Olarak tamamladı.<br>
+                                <b>2016-17 Sezonu:</b> Süper Ligi 36 puanla 16. Olarak tamamladı. Küme düştü<br>
+                                <b>2017-18 Sezonu:</b> 1. Liginde 1.olarak tamamladı. Süper Lig'e Yükseldi.<br>
+                                <b>2018-19 Sezonu:</b> Süper Ligi 41 puanla 11. Olarak tamamladı.</b></p>
+                        </div>
+                        <div class="tab-pane fade" id="oyuncular" role="tabpanel" aria-labelledby="profile-tab">
+                            <table class="table">
+                                <tr>
+                                    <th width="5%">#</th>
+                                    <th>Oyuncu</th>
+                                    <th>Doğum Tarihi</th>
+                                    <th>Uyruk</th>
+                                </tr>
+                                <tr>
+                                    <td class="formano">23</td>
+                                    <td>
+                                        <img class="oyuncu-foto" src="img/takimimiz/gokhan-akkan.jpeg" alt="">
+                                        <h4 class="oyuncu-isim">Gökhan Akkan</h4>
+                                        <h4 class="oyuncu-mevki">Kaleci</h4>
+                                    </td>
+                                    <td>1 Oca 1995 (24)</td>
+                                    <td>Türk</td>
+                                </tr>
+                                <tr>
+                                    <td class="formano">53</td>
+                                    <td>
+                                        <img class="oyuncu-foto" src="img/takimimiz/Dario-Melnjak.jpeg" alt="">
+                                        <h4 class="oyuncu-isim">Dario Melnjak</h4>
+                                        <h4 class="oyuncu-mevki">Sol Bek</h4>
+                                    </td>
+                                    <td>31 Eki 1992 (26)</td>
+                                    <td>Hırvatistan</td>
+                                </tr>
+                                <tr>
+                                    <td class="formano">33</td>
+                                    <td>
+                                        <img class="oyuncu-foto" src="img/takimimiz/Mohamed-Abarhoun.jpeg" alt="">
+                                        <h4 class="oyuncu-isim">Mohamed Abarhoun</h4>
+                                        <h4 class="oyuncu-mevki">Stoper</h4>
+                                    </td>
+                                    <td>3 May 1989 (30)</td>
+                                    <td>Fas</td>
+                                </tr>
+                                <tr>
+                                    <td class="formano">12</td>
+                                    <td>
+                                        <img class="oyuncu-foto" src="img/takimimiz/Chidozie-Awaziem.jpeg" alt="">
+                                        <h4 class="oyuncu-isim">Chidozie Awaziem</h4>
+                                        <h4 class="oyuncu-mevki">Stoper</h4>
+                                    </td>
+                                    <td>1 Oca 1997 (22)</td>
+                                    <td>Nijerya</td>
+                                </tr>
+                                <tr>
+                                    <td class="formano">15</td>
+                                    <td>
+                                        <img class="oyuncu-foto" src="img/takimimiz/Mykola-Moroziuk.jpeg" alt="">
+                                        <h4 class="oyuncu-isim">Mykola Moroziuk</h4>
+                                        <h4 class="oyuncu-mevki">Sağ Bek</h4>
+                                    </td>
+                                    <td>17 Oca 1988 (31)</td>
+                                    <td>Ukrayna</td>
+                                </tr>
+                                <tr>
+                                    <td class="formano">35</td>
+                                    <td>
+                                        <img class="oyuncu-foto" src="img/takimimiz/Musa-Cagiran.jpeg" alt="">
+                                        <h4 class="oyuncu-isim">Musa Çağıran</h4>
+                                        <h4 class="oyuncu-mevki">Merkez Orta Saha</h4>
+                                    </td>
+                                    <td>17 Kas 1992 (26)</td>
+                                    <td>Türk</td>
+                                </tr>
+                                <tr>
+                                    <td class="formano">40</td>
+                                    <td>
+                                        <img class="oyuncu-foto" src="img/takimimiz/Okechukwu-Azubuike.jpeg" alt="">
+                                        <h4 class="oyuncu-isim">Okechukwu Azubuike</h4>
+                                        <h4 class="oyuncu-mevki">Merkez Orta Saha</h4>
+                                    </td>
+                                    <td>19 Nisan 1997 (22)</td>
+                                    <td>Nijerya</td>
+                                </tr>
+                                <tr>
+                                    <td class="formano">18</td>
+                                    <td>
+                                        <img class="oyuncu-foto" src="img/takimimiz/Samudio.jpeg" alt="">
+                                        <h4 class="oyuncu-isim">Braian Samudio</h4>
+                                        <h4 class="oyuncu-mevki">Sol Kanat</h4>
+                                    </td>
+                                    <td>23 Ara 1995 (23)</td>
+                                    <td>Paraguay</td>
+                                </tr>
+                                <tr>
+                                    <td class="formano">10</td>
+                                    <td>
+                                        <img class="oyuncu-foto" src="img/takimimiz/Fernando-Boldrin.jpeg" alt="">
+                                        <h4 class="oyuncu-isim">Fernando Boldrin</h4>
+                                        <h4 class="oyuncu-mevki">On Numara</h4>
+                                    </td>
+                                    <td>23 Şub 1989 (30)</td>
+                                    <td>Brezilya</td>
+                                </tr>
+                                <tr>
+                                    <td class="formano">50</td>
+                                    <td>
+                                        <img class="oyuncu-foto" src="img/takimimiz/Aminu-Umar.jpeg" alt="">
+                                        <h4 class="oyuncu-isim">Aminu Umar</h4>
+                                        <h4 class="oyuncu-mevki">Sol Kanat</h4>
+                                    </td>
+                                    <td>6 Mar 1995 (24)</td>
+                                    <td>Nijerya</td>
+                                </tr>
+                                <tr>
+                                    <td class="formano">21</td>
+                                    <td>
+                                        <img class="oyuncu-foto" src="img/takimimiz/milan-skoda.jfif" alt="">
+                                        <h4 class="oyuncu-isim">Milan Skoda</h4>
+                                        <h4 class="oyuncu-mevki">Santrafor</h4>
+                                    </td>
+                                    <td>16 Ocak 1986 (34)</td>
+                                    <td>Çek Cumhuriyeti</td>
+                                </tr>
+                            </table>
+                        </div>
+                        <div class="tab-pane fade" id="stad" role="tabpanel" aria-labelledby="stad-tab">
+                            <h4 class="baslik">ÇAYKUR Didi Stadyumu</h4>
+                            <p>Çaykur Rizespor, maçlarını 2009 yılında hizmete açılan ,15,558 kişilik ÇAYKUR Didi
+                                Stadyumu (Rize Yeni Şehir stadı)nda oynuyor.Stadın açılışı 12 Ağustos 2009 günü,
+                                Rizespor - Fenerbahçe özel maçıyla gerçekleşti. Yeni modern UEFA standartlarında olan
+                                stadın, zemini de oldukça düzgün ve futbol oynamaya elverişli.
+
+                                Stadın teknik bilgilerine göz atarsak Stat Karadeniz sahil yolunun kenarında
+                                bulunuyor.Mimari tasarımında , modern çizgilerler, yerel ve geleneksel mimari sentez öne
+                                çıkmakta.Stadyum zemin alanı 19.776,00 m² dir. Toplam Stadyum Seyirci Kapasitesi:15.558
+                                kişi olurken bunun 15.197 kişisi seyirci ,277 kişi si Vip koltuk , 84 koltuk ise basın
+                                mensuplarına aittir.
+
+                                Ayrıca 12 Adet Özel Loca ve 3 adet basın locası mevcuttur. Modern stadta araç ile
+                                gelecek olanlarda düşünülerek 250 adedi kapalı olmak üzere 800 araç kapasiteli otopark
+                                hizmeti verilmektedir.
+
+                            </p>
+
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <img src="img/takimimiz/stad23.jpg" class="img-thumbnail" alt="">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="img/takimimiz/stad2.jpg" class="img-thumbnail" alt="">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="img/takimimiz/stad25.jpg" class="img-thumbnail" alt="">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="img/takimimiz/stad4.jpg" class="img-thumbnail" alt="">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <img src="img/takimimiz/stad3.jpg" class="img-thumbnail" alt="">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="img/takimimiz/stad13.jpg" class="img-thumbnail" alt="">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="img/takimimiz/stad18.jpg" class="img-thumbnail" alt="">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="img/takimimiz/stad22.jpg" class="img-thumbnail" alt="">
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="text-center py-3">
+            © 2020 Tüm Hakları Saklıdır: Muhammed Emin Kalkan
+        </div>
+    </footer>
