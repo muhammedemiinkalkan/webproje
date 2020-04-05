@@ -1,0 +1,49 @@
+/*Takımımız Bölümü*/
+.takim-bilgi {
+    margin-top: 20px;
+}
+
+.takim-bilgi h3 {
+    color: darkblue;
+}
+
+.takim-bilgi h5 {
+    color: darkgreen;
+}
+
+.icerik {
+    background-color: #fff;
+}
+
+.baslik {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.icerik p {
+    padding: 0 20px 10px 20px;
+}
+
+.formano {
+    background-color: #acc9d9;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.oyuncu-foto {
+    float: left;
+    text-align: center;
+    margin-right: 10px;
+    width: 30px;
+    height: 40px;
+}
+
+.oyuncu-isim {
+    font-size: 15px;
+    color: #2a7da8;
+}
+
+.oyuncu-mevki {
+    font-size: 12px;
+}
